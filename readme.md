@@ -64,7 +64,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 https://tech-blog5-8d4b7f6f8a54.herokuapp.com/
 
-## Video
+## Video & Screenshot
+
+![alt text](public/assets/image.png)
+
+![alt text](public/assets/gif.gif)
 
 
 
