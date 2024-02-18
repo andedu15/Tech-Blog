@@ -66,9 +66,17 @@ https://tech-blog5-8d4b7f6f8a54.herokuapp.com/
 
 ## Video & Screenshot
 
-![alt text](public/assets/image.png)
 
-![alt text](public/assets/gif.gif)
+- HOME    
+![alt text](public/assets/image.png)     
+
+    
+      
+
+- VIDEO      
+![alt text](public/assets/gif.gif)    
+
+
 
 
 
